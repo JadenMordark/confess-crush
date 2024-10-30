@@ -7,15 +7,15 @@ const CONFIG = {
     Nhưng đằng sau chữ yêu là thương
     Anh thương em Trần Gia Nghi`,
     btnIntro: 'Anh vụng về nhỉ :3',
-    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Nhớ lắm <33',
-    btnNo: 'À không...',
-    question: 'Anh là một người hài hước, thấy cả ngàn nụ cười nhưng chỉ nụ cười em làm anh xao xuyến khôn nguôi',
-    btnReply: 'Gửi cho baby <3',
+    title: 'Anh yêu em nhìu nhắm nên mới hay ghen vậy ạ :<',
+    desc: 'Đừng bùn anh nữa nhéee em iuuu <3',
+    btnYes: 'Thôi thì cũng đc',
+    btnNo: 'Không!!Cặc',
+    question: 'Anh là một người hài hước, thấy cả ngàn nụ cười nhưng chỉ nụ cười em làm anh xao xuyến khôn nguôi. Em muốn nói gì với anh hemmm',
+    btnReply: 'Gửi gửi gửi :3',
     reply: 'Yêu thì hãy tha thứ cho chàng sư tử vụng về này nhaaa <3',
-    mess: 'Anh năn nỉ mà 🥰. Yêu en nhiều nhiều 😘😘',
+    mess: 'Yêu thì hãy tha thứ cho chàng sư tử vụng về này nhaaa <3. Anh năn nỉ mà 🥰. Yêu en nhiều nhiều 😘😘',
     messDesc: 'Tối mai, hâm nóng tình cảm nha. 😳',
-    btnAccept: 'Đừng bùn nữa nhaaaa ~.~',
-    messLink: 'https://www.messenger.com/e2ee/t/7851548184924414' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    btnAccept: 'đừng bấm vàooo ^^',
+    messLink: 'https://www.youtube.com/watch?v=cPu3I-GSYSk' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
